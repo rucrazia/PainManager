@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Main Tab____________________________________________________________________________________________ -->
+    <color name="main_color">#592a72</color>
+
+    <!-- Main Tab____________________________________________________________________________________________ -->
+    <color name="main_tab_title_bg">#592a72</color>
+    <color name="main_tab_title_text">#dddddd</color>
+    <color name="main_tab_bg">#7a4c91</color>
+    <color name="main_tab_indicator">#B877D8</color>
+
+    <!-- Main Page___________________________________________________________________________________________ -->
+    <color name="fragment_bg">#fdfdfd</color>
+
+</resources>
